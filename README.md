@@ -2,14 +2,15 @@
 Alberto Barberis
 Federico Pezzatini
 Davide Broggini
+...
 
 ## Overview
-Make a description of the Project ... (TODO)
+Description of the Project ... (TODO)
 ...
 ...
 
 Save your local/specific example in local_examples (This are not saved in the repo!)
-Save general ecamples in general_examples (This are saved in the repo)
+Save general examples in general_examples (This are saved in the repo)
 
 # How to collaborate# Project Collaboration Guide
 
